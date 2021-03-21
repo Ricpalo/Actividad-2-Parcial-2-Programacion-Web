@@ -24,7 +24,7 @@
                 <li class="nav-item">
                     <a class="nav-link" href="<?=site_url('pacientes')?>">Pacientes</a>
                 </li>
-                <li class="nav-item">
+                <li class="nav-item active">
                     <a class="nav-link" href="#">Diagnósticos</a>
                 </li>
                 <li class="nav-item">
@@ -33,7 +33,7 @@
                 <li class="nav-item">
                     <a class="nav-link" href="<?=site_url('tratamientos')?>">Tratamientos</a>
                 </li>
-                <li class="nav-item active">
+                <li class="nav-item">
                     <a class="nav-link" href="<?=site_url('visitas')?>">Visitas</a>
                 </li>
 			</ul>
